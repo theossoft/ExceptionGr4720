@@ -1,4 +1,4 @@
-package homeWork.HW_1.Task_2;
+package homeWork.hw_1.Task_2;
 
 import java.util.Arrays;
 

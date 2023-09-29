@@ -1,4 +1,4 @@
-package homeWork.HW_1.Task_1;
+package homeWork.hw_1.Task_1;
 
 class Answer {
     public static void arrayOutOfBoundsException() {
